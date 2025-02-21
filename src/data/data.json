@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "IVA FUSION CODE",
+    "paragraph": "Delivering cutting-edge IT solutions to drive digital transformation. We specialize in software development, cloud computing, cybersecurity, and AI-powered solutions."
+  },
+  "About": {
+    "paragraph": "IVA Fusion Code is a trusted IT solutions provider dedicated to helping businesses navigate the digital landscape. With expertise in software development, cloud infrastructure, AI integration, and cybersecurity, we empower organizations to innovate and scale efficiently.",
+    "Why": [
+      "Bespoke software solutions",
+      "Secure and scalable technology",
+      "AI-driven automation",
+      "Cloud-based digital transformation"
+    ],
+    "Why2": [
+      "Customized IT consulting",
+      "End-to-end tech solutions",
+      "Proactive cybersecurity measures",
+      "Dedicated 24/7 support"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Cloud Computing Solutions",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "AI & Machine Learning",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Cybersecurity Infrastructure",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Enterprise Software Development",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Mobile App Solutions",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Big Data & Analytics",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Business Intelligence Tools",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "IT Infrastructure Solutions",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Cloud Security Systems",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Software Development",
+      "text": "Custom-built software solutions tailored to meet your business needs, ensuring efficiency and scalability."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Computing",
+      "text": "Secure, scalable cloud solutions for seamless business operations and improved collaboration."
+    },
+    {
+      "icon": "fa fa-shield-alt",
+      "name": "Cybersecurity",
+      "text": "Comprehensive security strategies to protect your business from digital threats and vulnerabilities."
+    },
+    {
+      "icon": "fa fa-robot",
+      "name": "AI & Automation",
+      "text": "Leverage AI to automate business processes and enhance decision-making with data-driven insights."
+    },
+    {
+      "icon": "fa fa-mobile-alt",
+      "name": "Mobile App Development",
+      "text": "Design and development of high-performance mobile applications for iOS and Android."
+    },
+    {
+      "icon": "fa fa-lightbulb",
+      "name": "IT Consulting",
+      "text": "Expert guidance to help businesses implement the right technology solutions for growth and innovation."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"IVA Fusion Code transformed our business with innovative software solutions and excellent support!\"",
+      "name": "Michael Roberts, CEO - Tech Solutions Inc."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Their cybersecurity measures gave us the confidence to expand our digital services without risk.\"",
+      "name": "Sarah Johnson, CTO - SecureNet"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The AI-driven automation solutions boosted our efficiency by 40% – truly game-changing!\"",
+      "name": "David Lee, Operations Manager - DataAnalytics Corp."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Their cloud computing expertise helped us transition seamlessly to a scalable, secure environment.\"",
+      "name": "Emma Watson, IT Director - CloudInnovate"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Outstanding mobile app development services! Our customer engagement has skyrocketed.\"",
+      "name": "Chris Martin, Founder - AppX Solutions"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Thanks to IVA Fusion Code, our IT infrastructure is more secure and future-ready than ever.\"",
+      "name": "Sophia Lee, COO - FutureTech"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Iniya",
+      "job": "Founder & CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Sham",
+      "job": "Chief Technology Officer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jack",
+      "job": "Lead Software Engineer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sophieaya",
+      "job": "Cybersecurity Specialist"
+    }
+  ],
+  "Contact": {
+    "address": "1234 Tech Park,Coimbatore, CA 94016",
+    "phone": "+1 800 555 1234",
+    "email": "contact@ivafusioncode.com",
+    "facebook": "https://facebook.com/ivafusioncode",
+    "twitter": "https://twitter.com/ivafusioncode",
+    "youtube": "https://youtube.com/ivafusioncode"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "Customizable Solutions",
+      "text": "We provide flexible and tailored IT solutions to meet your business requirements."
+    },
+    {
+      "icon": "fa fa-lock",
+      "title": "Enterprise-Grade Security",
+      "text": "Advanced cybersecurity strategies to safeguard your business from threats."
+    },
+    {
+      "icon": "fa fa-chart-line",
+      "title": "Scalable Growth",
+      "text": "Our solutions are designed to scale with your business, ensuring long-term success."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Dedicated Support",
+      "text": "Our expert team is available 24/7 to provide assistance and technical support."
+    }
+  ]
+}
