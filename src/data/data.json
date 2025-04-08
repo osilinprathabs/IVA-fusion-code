@@ -65,6 +65,7 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
+
   "Services": [
     {
       "icon": "fa fa-code",
@@ -97,36 +98,38 @@
       "text": "Expert guidance to help businesses implement the right technology solutions for growth and innovation."
     }
   ],
+
+
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"IVA Fusion Code transformed our business with innovative software solutions and excellent support!\"",
-      "name": "Michael Roberts, CEO - Tech Solutions Inc."
+      "name": "Mohan Raj, CEO - Tech Solutions Inc."
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Their cybersecurity measures gave us the confidence to expand our digital services without risk.\"",
-      "name": "Sarah Johnson, CTO - SecureNet"
+      "name": "Saranya Devi, CTO - SecureNet"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"The AI-driven automation solutions boosted our efficiency by 40% – truly game-changing!\"",
-      "name": "David Lee, Operations Manager - DataAnalytics Corp."
+      "name": "Dinesh Kumar, Operations Manager - DataAnalytics Corp."
     },
     {
       "img": "img/testimonials/04.jpg",
       "text": "\"Their cloud computing expertise helped us transition seamlessly to a scalable, secure environment.\"",
-      "name": "Emma Watson, IT Director - CloudInnovate"
+      "name": "Eswari Priya, IT Director - CloudInnovate"
     },
     {
       "img": "img/testimonials/05.jpg",
       "text": "\"Outstanding mobile app development services! Our customer engagement has skyrocketed.\"",
-      "name": "Chris Martin, Founder - AppX Solutions"
+      "name": "Karthik Raja, Founder - AppX Solutions"
     },
     {
       "img": "img/testimonials/06.jpg",
       "text": "\"Thanks to IVA Fusion Code, our IT infrastructure is more secure and future-ready than ever.\"",
-      "name": "Sophia Lee, COO - FutureTech"
+      "name": "Sowmya Lakshmi, COO - FutureTech"
     }
   ],
   "Team": [
@@ -137,17 +140,17 @@
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Sham",
+      "name": "Pranesh",
       "job": "Chief Technology Officer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jack",
+      "name": "Prajan",
       "job": "Lead Software Engineer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Sophieaya",
+      "name": "Theja",
       "job": "Cybersecurity Specialist"
     }
   ],
