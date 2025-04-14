@@ -163,11 +163,16 @@ export const Contact = (props) => {
         </div>
       </div>
       <div id="footer">
-        <div className="container text-center">
-          <p>
-            &copy; 2025 Design and Developed By IVA Fusion Code  
-         </p>
-         </div>
+      <div className="container text-center">
+        <p>
+          <img
+            src="/img/navigation/logo.png"  
+            alt="IVA Fusion Code Logo"
+            style={{ height: "30px", marginRight: "10px", verticalAlign: "middle" }}
+          />
+          © 2025 Design and Developed By IVA Fusion Code
+        </p>
+      </div>
       </div>
     </div>
   );

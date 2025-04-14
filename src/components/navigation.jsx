@@ -18,8 +18,16 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-          IVA FUSION CODE
-          </a>{" "}
+      <img
+        src="/img/navigation/logo.png"  
+        alt="IVA Fusion Code Logo"
+        style={{ height: "40px", marginRight: "30px", verticalAlign: "middle" }}
+      />
+    </a>
+    <a className="navbar-brand page-scroll" href="#page-top" style={{ paddingLeft: "10px", }}>
+      IVA FUSION CODE
+    </a>
+          {" "}
         </div>
 
         <div
