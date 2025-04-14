@@ -29,7 +29,7 @@ export const Contact = (props) => {
         "YOUR_SERVICE_ID",
         "YOUR_TEMPLATE_ID",
         e.target,
-        "YOUR_PUBLIC_KEY"
+        "Q3s9Dm4NKHq4wrRR6"  //publcic key
       )
       .then(
         (result) => {
@@ -48,7 +48,7 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
+                <h2>Get   In Touch</h2>
                 <p>
                   Please fill out the form below to send us an email and we will
                   get back to you as soon as possible.
@@ -150,6 +150,12 @@ export const Contact = (props) => {
                       <i className="fa fa-youtube"></i>
                     </a>
                   </li>
+                  <li>
+                    <a href={props.data ? props.data.youtube : "/"}>
+                      <i className="fa fa-youtube"></i>
+                    </a>
+                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -159,7 +165,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2025 Design and Developed By IVA Fusion Code  
          </p>
          </div>
       </div>
